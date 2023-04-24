@@ -11,12 +11,12 @@ dependencies:
   - requests
   - numpy
   - scikit-learn
-  - python=3.7
+  - python
   - plotly-orca
-  - matplotlib=3.2.2
+  - matplotlib
   - statsmodels
   - pip
   - pip:
-    - gif==3.0.0
-    - kaleido==0.2.1
-    - pillow==8.1.2
+    - gif
+    - kaleido
+    - pillow
